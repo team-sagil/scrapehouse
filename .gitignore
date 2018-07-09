@@ -1,3 +1,4 @@
 *.map.*.json
 *.ad.*.json
 env
+*~
